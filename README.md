@@ -1,7 +1,6 @@
 
 # Supermarket Sales Analysis
-
-This project analyzes supermarket sales davisualizationon key business metrics such as sales trends, customer behavior, and product performance across multiple cities. Using Python for data manipulation and visualization, this analysis provides actionable insights that can inform strategic business decisions.
+This project analyzes supermarket sales data to visualize key business metrics such as sales trends, customer behavior, and product performance across multiple cities. Using Python for data manipulation and visualization, this analysis provides actionable insights that can inform strategic business decisions.
 
 ## Project Overview
 
